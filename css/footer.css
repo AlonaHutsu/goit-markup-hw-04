@@ -32,8 +32,9 @@
 }
 .footer-container {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start;
 }
+
 .footer-info {
   margin-right: 120px;
 }
